@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    font-family: 'Larsseit';
+    width: 1440px;
+}
+.card {
+  display: flex;
+  width: 480px;
+  height: 480px;
+}
+.text {
+  font-weight: 600;
+  height: 70px;
+  width: 340px;
+  border-top: 2px solid white;
+  margin-top: 94px;
+  padding-left: 32px;
+  padding-top: 30px;
+  margin-left: 70px;
+  font-size: 32px;
+  color: white;
+  background: url(../Ellipse.png) no-repeat left center;
+}
